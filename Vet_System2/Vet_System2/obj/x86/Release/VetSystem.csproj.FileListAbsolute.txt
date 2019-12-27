@@ -1,0 +1,9 @@
+D:\Desktopp\VetSystem\VetSystem\bin\Release\VetSystem.exe
+D:\Desktopp\VetSystem\VetSystem\bin\Release\VetSystem.pdb
+D:\Desktopp\VetSystem\VetSystem\obj\x86\Release\VetSystem.frmMain.resources
+D:\Desktopp\VetSystem\VetSystem\obj\x86\Release\VetSystem.frmClientPage.resources
+D:\Desktopp\VetSystem\VetSystem\obj\x86\Release\VetSystem.Properties.Resources.resources
+D:\Desktopp\VetSystem\VetSystem\obj\x86\Release\VetSystem.csproj.GenerateResource.Cache
+D:\Desktopp\VetSystem\VetSystem\obj\x86\Release\VetSystem.exe
+D:\Desktopp\VetSystem\VetSystem\obj\x86\Release\VetSystem.pdb
+D:\Desktopp\VetSystem\VetSystem\obj\x86\Release\VetSystem.AddClient.resources

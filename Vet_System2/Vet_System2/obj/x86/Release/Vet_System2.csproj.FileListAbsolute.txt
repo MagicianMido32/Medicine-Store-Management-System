@@ -1,0 +1,12 @@
+D:\Desktopp\Vet_System2\Vet_System2\bin\Release\Vet_System2.exe
+D:\Desktopp\Vet_System2\Vet_System2\bin\Release\Vet_System2.pdb
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\VetSystem.AddClient.resources
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\VetSystem.frmMain.resources
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\VetSystem.frmClientPage.resources
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\Vet_System2.Properties.Resources.resources
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\Vet_System2.csproj.GenerateResource.Cache
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\Vet_System2.exe
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\Vet_System2.pdb
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\Vet_System2.frmErrorHandel.resources
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\Vet_System2.frmAbout.resources
+D:\Desktopp\Vet_System2\Vet_System2\obj\x86\Release\Vet_System2.csprojResolveAssemblyReference.cache
